@@ -90,6 +90,10 @@
         height: 25px;
         border: 0.8px solid #ffffff;
     }
+    .main-start
+    {
+       padding-top: 2px;
+    }
     .banner-img h1 
     {
         font-size: 1.5rem;

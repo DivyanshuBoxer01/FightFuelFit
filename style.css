@@ -64,6 +64,10 @@ nav
     color:white;
     flex-wrap: nowrap;
 }
+#spe-hover
+{
+    color:rgb(91, 200, 91);
+}
 .nav-butt
 {
     display: inline-block;
@@ -150,8 +154,8 @@ span
     padding-left: 5px;
     padding-right: 5px;
     justify-content: space-evenly;
-    margin-inline: 20px;
     margin-top: 20px;
+    margin-inline: 20px;
     border-radius: 15px;
     box-shadow: 0 0 10px rgb(22, 201, 123);
 }
@@ -176,8 +180,8 @@ span
     padding-left: 5px;
     padding-right: 5px;
     justify-content: space-evenly;
-    margin-inline: 20px;
     margin-top: 20px;
+    margin-inline: 20px;
     border-radius: 15px;
     box-shadow: 0 0 10px rgb(22, 201, 123);
 }
@@ -195,6 +199,7 @@ span
     padding-top: 10px;
     padding-left: 5px;
     padding-right: 5px;
+    padding-bottom: 5px;
     margin-top: 20px;
     margin-bottom: 10px;
     margin-inline: 20px;

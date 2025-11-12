@@ -76,13 +76,17 @@
         height: 25px;
         border: 0.8px solid #ffffff;
     }
+    .main-start
+    {
+    padding-top: 2px;
+    }
     .img-banner img 
     {
         height: 300px;
     }
    .lines h1 
    {
-        font-size: 1.7rem;
+        font-size: 1.5rem;
    }
    .text-img p
    {
@@ -91,6 +95,8 @@
    .big-box
     {
         flex-direction: column;
+        margin-inline: 0;
+        border-radius: 0;
     }
     .gym-img
     {
@@ -99,6 +105,8 @@
      .big-box-2
     {
         flex-direction: column;
+        margin-inline: 0px;
+        border-radius: 0px;
     }
     .boxing-img
     {
@@ -107,6 +115,8 @@
     .big-box-3
     {
         flex-direction: column;
+        margin-inline: 0px;
+        border-radius: 0px;
     }
     .diet-img
     {
