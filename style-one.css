@@ -127,6 +127,7 @@ main hr
 span
 {
     color: rgb(229,20,9);
+    font-weight: 600;
 }
 .main-start
 {
@@ -146,7 +147,6 @@ span
     padding-top: 30px;
     font-weight: 800;
     color: rgb(16, 218, 117);
-    text-decoration: underline;
 }
 #spe-tag 
 {
