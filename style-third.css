@@ -137,11 +137,15 @@ span
 {
     padding-top: 30px;
     padding-bottom: 20px;
-    color: white;
+    color: #ffffff;
     text-align: center;
     font-size: 2rem;
     font-weight: 600;
     font-family: "Roboto", sans-serif;
+}
+#spe-line
+{
+    color: rgb(16, 218, 117);
 }
 .main-first
 {
