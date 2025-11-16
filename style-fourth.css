@@ -73,7 +73,7 @@ body
     margin-inline: 10px;
     border-radius: 20px;
     background-color: rgba(0, 0, 0, 0.266);
-    background: linear-gradient(rgb(0,0,0,0.1),rgb(0,0,0,0.8)), url(https://i.pinimg.com/736x/dc/50/85/dc50853b0f4de0d80bdc8dec5fa774be.jpg);
+    background: linear-gradient(rgb(0,0,0,0.2),rgb(0,0,0,0.8)), url(https://i.pinimg.com/736x/dc/50/85/dc50853b0f4de0d80bdc8dec5fa774be.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 40%;

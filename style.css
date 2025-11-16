@@ -144,6 +144,10 @@ span
     font-weight: 600;
     font-family: "Roboto", sans-serif;
 }
+#spe-id
+{
+    font-weight: 800;
+}
 .spe-tag 
 {
     color: rgb(16, 218, 117);

@@ -28,7 +28,7 @@ p
 }
 h1
 {
-    font-size: 1.8rem;
+    font-size: 2rem;
     font-weight: 500;
     font-family: "Roboto", sans-serif;
 }
@@ -133,6 +133,10 @@ span
     padding-top: 30px;
     font-weight: 800;
     color: rgb(16, 218, 117);
+}
+#spe-tag
+{
+    text-align: center;
 }
 .tag-2
 {
