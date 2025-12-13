@@ -148,6 +148,11 @@ span
 {
     font-weight: 800;
 }
+#spe-id a
+{
+    text-decoration: none;
+    color: rgb(16, 218, 117);
+}
 .spe-tag 
 {
     color: rgb(16, 218, 117);
