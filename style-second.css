@@ -160,8 +160,7 @@ span
 .day-first-img
 {
     flex-direction: column;
-    border-radius: 6px;
-    padding-top: 20px;
+    border-radius: 10px;
     height: 300px;
     width: 23%;
     margin: 5px;
@@ -196,8 +195,7 @@ span
 .day-second-img
 {
     flex-direction: column;
-    border-radius: 6px;
-    padding-top: 20px;
+    border-radius: 10px;
     height: 300px;
     width: 23%;
     margin: 5px;
@@ -232,8 +230,7 @@ span
 .day-third-img
 {
     flex-direction: column;
-    border-radius: 6px;
-    padding-top: 20px;
+    border-radius: 10px;
     height: 300px;
     width: 23%;
     margin: 5px;
@@ -268,8 +265,7 @@ span
 .day-four-img
 {
     flex-direction: column;
-    border-radius: 6px;
-    padding-top: 20px;
+    border-radius: 10px;
     height: 310px;
     width: 23%;
     margin: 5px;
@@ -304,8 +300,7 @@ span
 .day-five-img
 {
     flex-direction: column;
-    border-radius: 6px;
-    padding-top: 20px;
+    border-radius: 10px;
     height: 310px;
     width: 23%;
     margin: 5px;
@@ -340,8 +335,7 @@ span
 .day-six-img
 {
     flex-direction: column;
-    border-radius: 6px;
-    padding-top: 20px;
+    border-radius: 10px;
     height: 310px;
     width: 23%;
     margin: 5px;

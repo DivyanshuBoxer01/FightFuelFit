@@ -161,7 +161,6 @@ span
 {
     flex-direction: column;
     border-radius: 10px;
-    padding-top: 20px;
     height: 290px;
     width: 23%;
     margin: 5px;
@@ -195,7 +194,6 @@ span
 }
 .main-img-sec
 {
-    padding-top: 20px;
     border-radius: 10px;
     flex-direction: column;
     height: 280px;
@@ -231,7 +229,6 @@ span
 }
 .main-img-3
 {
-    padding-top: 20px;
     border-radius: 10px;
     flex-direction: column;
     height: 280px;
@@ -267,7 +264,6 @@ span
 }
 .main-img-4
 {
-    padding-top: 20px;
     border-radius: 10px;
     flex-direction: column;
     height: 280px;
@@ -303,7 +299,6 @@ span
 }
 .main-img-5
 {
-    padding-top: 20px;
     border-radius: 10px;
     flex-direction: column;
     height: 315px;
