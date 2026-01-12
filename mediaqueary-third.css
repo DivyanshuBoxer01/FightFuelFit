@@ -1,5 +1,10 @@
 @media screen and (max-width: 767px)
 {
+     header 
+    {
+        position: sticky;
+        top: 0;
+    }
     #spe-butt
     {
         font-size: 12px;
@@ -87,6 +92,11 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
+    }
+     header 
+    {
+        position: sticky;
+        top: 0;
     }
     .nav-in
     {

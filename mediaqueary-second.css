@@ -1,5 +1,10 @@
 @media screen and (max-width: 767px)
 {
+     header 
+    {
+        position: sticky;
+        top: 0;
+    }
      .nav-butt
     {
         height: 35px;
@@ -73,6 +78,11 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
+    }
+     header 
+    {
+        position: sticky;
+        top: 0;
     }
     .nav-hover
     {

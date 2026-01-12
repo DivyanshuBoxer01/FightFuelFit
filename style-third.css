@@ -32,6 +32,8 @@ h1
     font-weight: 500;
     font-family: "Roboto", sans-serif;
 }
+
+/*Nav-Start*/
 nav
 {
     background-color: black;
@@ -93,6 +95,8 @@ nav
 {
     background-color: rgb(19, 247, 19);
 }
+
+/*Body-Start*/
 body
 {
     background-color: black;
@@ -148,6 +152,8 @@ span
     color: rgb(16, 218, 117);
     font-weight: 800;
 }
+
+/*Card-Section strat*/
 .main-first
 {
     padding-top: 20px;
@@ -328,6 +334,8 @@ span
     min-width: 100%;
     border: 2px solid rgb(14, 149, 14);
 }
+
+/*Footer-Start*/
 footer
 {
     height: 20vh;
