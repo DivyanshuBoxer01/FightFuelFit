@@ -4,6 +4,16 @@
     {
         position: sticky;
         top: 0;
+        background-color: black;
+        padding-block: 1px;
+        z-index: 2;
+        box-shadow:  0 3px 8px #888;
+        
+    }
+    main hr 
+    {
+        max-width: none;
+         border: none;
     }
     .nav-butt
     {
@@ -60,6 +70,8 @@
    .last
    {
      font-size: 1rem;
+     padding-top: 10px;
+     padding-bottom: 30px;
    }
 }
 @media screen and (max-width: 479px)
@@ -69,11 +81,6 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
-    }
-    header 
-    {
-        position: sticky;
-        top: 0;
     }
     .nav-in
     {

@@ -1,9 +1,19 @@
 @media screen and (max-width: 767px)
 {
-     header 
+    header 
     {
         position: sticky;
         top: 0;
+        background-color: black;
+        padding-block: 1px;
+        z-index: 2;
+        box-shadow:  0 3px 8px #888;
+        
+    }
+    main hr 
+    {
+        max-width: none;
+         border: none;
     }
     #spe-butt
     {
@@ -78,11 +88,13 @@
    }
    .last-footer
    {
-    padding-top: 10px;
+     padding-top: 10px;
    }
    .last
    {
      font-size: 1rem;
+     padding-top: 10px;
+     padding-bottom: 30px;
    }
 }
 @media screen and (max-width: 479px)

@@ -247,11 +247,13 @@ footer
 .last-footer
 {
     flex-direction: column;
-    padding-top: 20px;
+    padding-top: 5px;
+    padding-bottom: 50px;
 }
 .last
 {
     text-decoration: none;
+     font-size: 1.3rem;
 
 }
 .last:hover 
