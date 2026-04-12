@@ -21,16 +21,16 @@
     }
     .nav-butt
     {
-        padding: 6px 10px;
+        padding: 4px 8px;
         border-radius: 4px;
     }
     #spe-butt
     {
-        font-size: 16px;
+        font-size: 14px;
     }
     .nav-in
     {
-        font-size: 16px;
+        font-size: 14px;
     }
     .tag-2
     {
@@ -111,10 +111,6 @@
     {
         position: sticky;
         top: 0;
-    }
-    .nav-in
-    {
-        font-size: 16px;
     }
     .main-start
     {
