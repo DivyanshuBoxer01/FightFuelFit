@@ -15,14 +15,22 @@
         max-width: none;
          border: none;
     }
-     .nav-butt
+    .nav-link
     {
-        height: 35px;
-        width: 15%;
+      padding-top: 20px;
+    }
+     .nav-hover
+    {
+        font-size: 16px;
+    }
+    .nav-butt
+    {
+        padding: 6px 10px;
+        border-radius: 4px;
     }
     #spe-butt
     {
-        font-size: 14px;
+        font-size: 16px;
     }
     .banner-img-main
     {
@@ -95,21 +103,6 @@
     {
         position: sticky;
         top: 0;
-    }
-    .nav-hover
-    {
-        font-size: 16px;
-    }
-    .nav-butt
-    {
-        font-size: 8px;
-        width: 15%;
-        height: 25px;
-        border: 0.8px solid #ffffff;
-    }
-    #spe-butt
-    {
-        font-size: 12px;
     }
     .main-start
     {

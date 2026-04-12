@@ -73,19 +73,13 @@ nav
 .nav-butt
 {
     display: inline-block;
-    height: 35px;
-    width: 8%;
-    justify-content: center;
-    border: 2px solid white;
-    align-content: center;
-    align-items: center;
-    text-align: center;
     background-color: rgb(14, 149, 14);
     border-radius: 4px;
     font-family: "Roboto", sans-serif;
     font-size: 17px;
-    cursor: pointer;
-    transition: 0.2 ease-in-out;
+    border-radius: 6px;
+    font-weight: 700;
+    padding: 7px 12px;
 }
 .nav-butt .nav-in
 {
