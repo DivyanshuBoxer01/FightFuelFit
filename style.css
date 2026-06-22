@@ -32,6 +32,10 @@ h1
     font-weight: 500;
     font-family: "Roboto", sans-serif;
 }
+.ham-icon
+{
+    border: #ffffff;
+}
 
 /* Nav-start */
 nav
